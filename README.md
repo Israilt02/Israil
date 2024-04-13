@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -114,7 +114,6 @@
     </div>
     <div class="price-item">
         Membership Mingguan: Rp. 35.000 
-        <input type="text" id="nomorTujuanFFMembershipMinggu
         <input type="text" id="nomorTujuanFFMembershipMingguan" placeholder="Nomor tujuan">
         <a href="#" onclick="beliProduk('Free Fire', 'Membership Mingguan', document.getElementById('nomorTujuanFFMembershipMingguan').value)" class="whatsapp-link">Beli</a>
     </div>
